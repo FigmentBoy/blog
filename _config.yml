@@ -20,6 +20,8 @@ timezone: America/New_York
 
 title: Figment # the main title
 
+image: /assets/img/squavatar.png
+
 tagline: CS student, music nerd, etc. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
