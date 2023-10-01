@@ -20,7 +20,7 @@ timezone: America/New_York
 
 title: Figment # the main title
 
-tagline: A not-so-average 18 year old # it will display as the sub-title
+tagline: CS student, music nerd, etc. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Blog of an 18 year old programmer, trombone player, drum corps doer, and boilermaker
